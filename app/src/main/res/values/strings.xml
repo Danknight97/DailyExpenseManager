@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Daily Expense</string>
+    <string-array name="Category">
+        <item>Food</item>
+        <item>Travel</item>
+        <item>Hotel</item>
+        <item>Shopping</item>
+
+
+    </string-array>
+
+    <string-array name="PaymentMode">
+
+        <item>Cash</item>
+        <item>PayTM</item>
+        <item>Credit Card</item>
+        <item>Debit Card</item>
+    </string-array>
+</resources>
